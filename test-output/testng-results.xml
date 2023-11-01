@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-01T10:44:23 IST" name="Default suite" finished-at="2023-11-01T10:45:14 IST" duration-ms="50995">
+    <groups>
+    </groups>
+    <test started-at="2023-11-01T10:44:23 IST" name="Default test" finished-at="2023-11-01T10:45:14 IST" duration-ms="50995">
+      <class name="QA.Enhancing_student_QA_form">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:QA.Enhancing_student_QA_form@498d318c]" started-at="2023-11-01T10:44:23 IST" name="beforeTest" finished-at="2023-11-01T10:44:33 IST" duration-ms="9748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="improvement()[pri:0, instance:QA.Enhancing_student_QA_form@498d318c]" started-at="2023-11-01T10:44:33 IST" name="improvement" finished-at="2023-11-01T10:45:14 IST" duration-ms="41135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- improvement -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:QA.Enhancing_student_QA_form@498d318c]" started-at="2023-11-01T10:45:14 IST" name="afterTest" finished-at="2023-11-01T10:45:14 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- QA.Enhancing_student_QA_form -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
